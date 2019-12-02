@@ -26,10 +26,9 @@ Der Code für den Server befindet sich in [./src/main/java/de/wif/it](./src/main
 
 a)
 
-Starten Sie den Server au ihrem Computer!
+Starten Sie den Server auf ihrem Computer! Das können Sie diesmal auch aus IntelliJ machen!
 
-```shell
-```
+![Run](./images/run.png)
 
 b)
 
